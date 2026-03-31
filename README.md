@@ -41,8 +41,8 @@ A scalable Twitter-like backend system implemented in C++ supporting tweet posti
 ##  Project Structure
 
 micro-tweets-feed/
-├── include/
-├── src/
+├── Twitter.h
+├── Twitter.cpp
 ├── main.cpp
 
 ---
@@ -61,12 +61,12 @@ micro-tweets-feed/
 
 ##  Run Locally
 
-g++ main.cpp src/Twitter.cpp -o twitter
+g++ main.cpp Twitter.cpp -o twitter
 ./twitter
 
 ---
 
 ## Key Highlights
-- Designed a real-world social media backend system
+- Designed a mini-twitter like system using system design and DSA
 - Implemented efficient feed retrieval using heap-based merging
 - Built an interactive CLI-based simulation
