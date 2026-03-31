@@ -4,6 +4,16 @@ A scalable Twitter-like backend system implemented in C++ supporting tweet posti
 
 ---
 
+## Live Demo
+Run the project online:  
+👉 https://replit.com/@hackers108/Micro-Tweets-Feeds
+
+Note:
+- Click **Run ** to execute the program  
+- If prompted, click **Remix**
+- Then click **Tools&Files** 
+- Then use the console to enter commands 
+
 ## Features
 - Post tweets in real-time
 - Follow / Unfollow users
